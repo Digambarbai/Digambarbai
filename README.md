@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola 👋 I'm Digambar Bai
 
 <!--
-**Digambarbai/Digambarbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working as a Software Developer
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Technologies 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about web related stuff
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+### About Me
+I am a full-stack developer. I love developing Websites and Apps. Highly motivated and optimistic, I take on every opportunity which comes my way.
+
