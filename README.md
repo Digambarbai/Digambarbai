@@ -26,7 +26,7 @@
 ![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=digambarbai&show_icons=true&theme=radical)
 
 ## 🎨 HOBBIES-
-**Watching Movies. I also like reading.**
+**Watching Movies, reading books.**
 
 ## 📱 GET IN TOUCH-
 **For any queries or collaboration leave me a message at https://www.linkedin.com/in/digambar-bai-290a06148/.**
