@@ -17,13 +17,16 @@
 
 
 ## 🎯 TECH I KNOW-
+* **HTML5,CSS3**
+* **JavaScript**
+* **Bootstrap**
 * **PHP**
 * **React**
 * **Python**
 * **Django**
 
 ## 📈STATS-
-![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=digambarbai&show_icons=true&theme=radical)
+![Digambar's github stats](https://github-readme-stats.vercel.app/api?username=digambarbai&show_icons=true&theme=radical)
 
 ## 🎨 HOBBIES-
 **Watching Movies, reading books.**
