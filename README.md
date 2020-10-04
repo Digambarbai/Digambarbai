@@ -1,4 +1,4 @@
-### Hola 👋 I'm Digambar Bai
+### Hola 👋 I'm Digambar Bai💻
 
 <!--
 - 🔭 I’m currently working as a Software Developer
@@ -13,15 +13,16 @@
 -->
 
 ### About Me
-**I am a Full-Stack Developer. I love developing Websites and Apps. Highly motivated and optimistic, I take on every opportunity which comes my way.**
+**I'm a Software Engineer who is passionate💖 about Full Stack Web Development and Also Data Science Enthusiast. I love developing Websites and Apps. Highly motivated and optimistic, I take on every opportunity which comes my way.
 
 
-## 🎯 TECH I KNOW-
+## 🔭 TECH I KNOW-
 * **HTML5, CSS3**
 * **JavaScript**
 * **Bootstrap**
 * **PHP**
 * **React**
+* **Node**
 * **Python**
 * **Django**
 * **Flask**
@@ -34,6 +35,7 @@
 
 ## 📱 GET IN TOUCH-
 **For any queries or collaboration leave me a message at https://www.linkedin.com/in/digambar-bai-290a06148/.**
+**💌Mail me [digambarbai97@gmail.com]()**
 
 
 
