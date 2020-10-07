@@ -35,7 +35,7 @@
 
 ## 📱 GET IN TOUCH-
 **For any queries or collaboration leave me a message at 
-** [![Linkedin: Aman](https://img.shields.io/badge/-amanirshad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digambar-bai-290a06148/)]
+** [![Linkedin: Aman](https://img.shields.io/badge/-digambar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digambar-bai-290a06148/)]
 https://www.linkedin.com/in/digambar-bai-290a06148/.**
 
 **💌Mail me [digambarbai97@hotmail.com]()**
