@@ -13,7 +13,7 @@
 -->
 
 ### About Me
-**I'm a Software Engineer who is passionate💖 about Full Stack Web Development and Also Data Science Enthusiast. I love developing Websites and Apps. Highly motivated and optimistic, I take on every opportunity which comes my way.
+**I'm a Software Engineer who is passionate💖 about Full Stack Web Development and Also Data Science Enthusiast. I love developing Web Apps. Highly motivated and optimistic, I take on every opportunity which comes my way.
 
 
 ## 🔭 TECH I KNOW-
