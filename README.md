@@ -26,6 +26,7 @@
 * **Python**
 * **Django**
 * **Flask**
+* **CodeIgniter**
 
 ## 📈STATS-
 ![Digambar's github stats](https://github-readme-stats.vercel.app/api?username=digambarbai&show_icons=true&theme=radical)
